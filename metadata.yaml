@@ -1,5 +1,5 @@
 homepage: "https://immerss.live"
 documentation: "https://www.immerss.live/docs/google-tag-manager-integrations#gtm-live-instruction"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 515ca76042218df406dc02c11ea0e87fa24d106a
     changeNotes: Initial release.
